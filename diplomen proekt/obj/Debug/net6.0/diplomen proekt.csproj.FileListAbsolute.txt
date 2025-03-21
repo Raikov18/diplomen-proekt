@@ -1,0 +1,77 @@
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.csproj.AssemblyReference.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.AssemblyInfoInputs.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.AssemblyInfo.cs
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.csproj.CoreCompileInputs.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.MvcApplicationPartsAssemblyInfo.cs
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.RazorAssemblyInfo.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.RazorAssemblyInfo.cs
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\appsettings.Development.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\appsettings.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.staticwebassets.runtime.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.exe
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.deps.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.runtimeconfig.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\diplomen proekt.pdb
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Humanizer.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets\msbuild.diplomen proekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets\msbuild.build.diplomen proekt.props
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.diplomen proekt.props
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.diplomen proekt.props
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\scopedcss\bundle\diplomen proekt.styles.css
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\scopedcss\projectbundle\diplomen proekt.bundle.scp.css
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.csproj.CopyComplete
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\refint\diplomen proekt.dll
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.pdb
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\diplomen proekt.genruntimeconfig.cache
+C:\Manoel 9A\diplomen proekt\diplomen proekt\obj\Debug\net6.0\ref\diplomen proekt.dll
