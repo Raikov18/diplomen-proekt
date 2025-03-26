@@ -3,60 +3,90 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Пица Мания</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Онлайн Пицария</title>
+    <link rel="stylesheet" href="site.css">
 </head>
 <body>
-    <!-- Навигационно меню -->
+    
     <header>
-        <nav>
-            <ul>
-                <li><a href="#">Начало</a></li>
-                <li><a href="#">Меню</a></li>
-                <li><a href="#">Контакти</a></li>
-                <li><a href="#">Поръчай сега</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <h1>Онлайн Пицария</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Начало</a></li>
+                    <li><a href="#menu">Меню</a></li>
+                    <li><a href="#order">Поръчка</a></li>
+                    <li><a href="#contact">Контакти</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <!-- Главен хедър с изображение -->
-    <section class="hero">
-        <div class="hero-content">
-            <h1>Добре дошли в Пица Мания!</h1>
-            <p>Най-вкусните пици на едно място.</p>
-            <a href="#menu" class="btn">Прегледайте менюто</a>
+    <section id="home" class="section">
+        <div class="container">
+            <h2>Добре дошли в нашата пицария!</h2>
+            <p>Предлагаме най-вкусните пици с пресни съставки и любими топинги. Направете поръчката си лесно онлайн!</p>
         </div>
     </section>
 
-    <!-- Секция с избрани пици -->
-    <section id="menu" class="menu">
-        <h2>Нашите Пици</h2>
-        <div class="pizza-list">
-            <div class="pizza-item">
-                <img src="pizza1.jpg" alt="Пица Маргарита">
-                <h3>Пица Маргарита</h3>
-                <p>Класическа пица с домати, моцарела и босилек.</p>
-                <a href="#" class="btn">Поръчай сега</a>
+    <section id="menu" class="section">
+        <div class="container">
+            <h2>Нашето Меню</h2>
+            <div class="menu-item">
+                <h3>Маргарита</h3>
+                <img src="/diplomen proekt/Peperoni.png" alt="Пица Маргарита" width="300">
+                <p>Класическа пица с доматен сос, моцарела и босилек.</p>
+                <p>Цена: 12 лв.</p>
             </div>
-            <div class="pizza-item">
-                <img src="pizza2.jpg" alt="Пица Пеперони">
-                <h3>Пица Пеперони</h3>
-                <p>Пица с пеперони, домати и моцарела.</p>
-                <a href="#" class="btn">Поръчай сега</a>
+            <div class="menu-item">
+                <h3>Пеперони</h3>
+                <p>Пица с доматен сос, моцарела и пеперони.</p>
+                <p>Цена: 15 лв.</p>
             </div>
-            <div class="pizza-item">
-                <img src="pizza3.jpg" alt="Пица Вегетарианска">
-                <h3>Пица Вегетарианска</h3>
-                <p>Пица с пресни зеленчуци и моцарела.</p>
-                <a href="#" class="btn">Поръчай сега</a>
+            <div class="menu-item">
+                <h3>Вегетарианска</h3>
+                <p>Пица с доматен сос, моцарела и разнообразие от зеленчуци.</p>
+                <p>Цена: 14 лв.</p>
             </div>
         </div>
     </section>
 
-    <!-- Footer с информация -->
+    <section id="order" class="section">
+        <div class="container">
+            <h2>Направете поръчка</h2>
+            <form>
+                <label for="pizza">Изберете пица:</label>
+                <select id="pizza" name="pizza">
+                    <option value="margarita">Маргарита</option>
+                    <option value="pepperoni">Пеперони</option>
+                    <option value="vegetarian">Вегетарианска</option>
+                </select>
+                <br><br>
+                <label for="quantity">Брой пици:</label>
+                <input type="number" id="quantity" name="quantity" min="1" value="1">
+                <br><br>
+                <button type="submit">Добави в количката</button>
+            </form>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Контакти</h2>
+            <p>Адрес: ул. Примерна 123, София</p>
+            <p>Телефон: 0899 123 456</p>
+            <p>Email: contact@pizzashop.bg</p>
+        </div>
+    </section>
+
     <footer>
-        <p>&copy; 2025 Пица Мания | Всички права запазени</p>
+        <div class="container">
+            <p>&copy; 2025 Онлайн Пицария. Всички права запазени.</p>
+        </div>
     </footer>
+
 </body>
 </html>
+
+
 

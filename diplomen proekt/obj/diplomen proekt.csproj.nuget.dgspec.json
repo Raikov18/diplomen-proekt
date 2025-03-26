@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Manoel 9A\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj": {}
+    "C:\\Users\\Student\\Desktop\\proekt\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj": {}
   },
   "projects": {
-    "C:\\Manoel 9A\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj": {
+    "C:\\Users\\Student\\Desktop\\proekt\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Manoel 9A\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Desktop\\proekt\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj",
         "projectName": "diplomen proekt",
-        "projectPath": "C:\\Manoel 9A\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj",
+        "projectPath": "C:\\Users\\Student\\Desktop\\proekt\\diplomen proekt\\diplomen proekt\\diplomen proekt.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Manoel 9A\\diplomen proekt\\diplomen proekt\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Desktop\\proekt\\diplomen proekt\\diplomen proekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,19 +46,29 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.24, )"
+              "version": "[6.0.35, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.24, )"
+              "version": "[6.0.35, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.24, )"
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.35, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.24, )"
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
             }
           },
           "imports": [

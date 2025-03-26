@@ -1,0 +1,97 @@
+﻿//<!--@model List<YourNamespace.Models.Pizza>-->  <!-- Моделът може да бъде списък с пици от вашия контролер -->
+
+@{
+    Layout = "_Layout";  <!-- Ако използваш Layout файл -->
+}
+
+<div class="pizza-menu">
+    <h1>Меню</h1>
+    <div class="pizza-category">
+        <h2>Пици</h2>
+        <div class="pizza-list">
+            @foreach (var pizza in Model)
+            {
+                <div class="pizza-item">
+                    <div class="pizza-image">
+                        <img src="@pizza.ImageUrl" alt="@pizza.Name" />
+                    </div>
+                    <div class="pizza-details">
+                        <h3>@pizza.Name</h3>
+                        <p>@pizza.Description</p>
+                        <p class="price">@pizza.Price.ToString("C")</p> <!-- Форматиране на цената като валута -->
+                        <form action="@Url.Action("AddToCart", "Cart")" method="post">
+                            <input type="hidden" name="pizzaId" value="@pizza.PizzaId" />
+                            <button type="submit" class="add-to-cart-btn">Добави в кошницата</button>
+                        </form>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .pizza-menu {
+        margin: 0 auto;
+        padding: 20px;
+        max-width: 1200px;
+    }
+    .pizza-category h2 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+    .pizza-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .pizza-item {
+        width: 250px;
+        background-color: #fff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s;
+    }
+    .pizza-item:hover {
+        transform: translateY(-10px);
+    }
+    .pizza-image img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    .pizza-details {
+        padding: 15px;
+        text-align: center;
+    }
+    .pizza-details h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+    .pizza-details p {
+        font-size: 1rem;
+        color: #555;
+        margin-bottom: 15px;
+    }
+    .price {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #e94e77;
+    }
+    .add-to-cart-btn {
+        background-color: #e94e77;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1rem;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    .add-to-cart-btn:hover {
+        background-color: #d43f5c;
+    }
+</style>
